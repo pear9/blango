@@ -10,7 +10,7 @@ __pycache__
 *.db
 
 # Ignore static files
-staticfiles/
+
 
 # Ignore media files
 media/

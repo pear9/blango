@@ -152,3 +152,4 @@ class Dev():
 class Prod(Dev):
     DEBUG=False
     SECRET_KEY=Dev.SECRET_KEY
+    ALLOWED_HOSTS=['*']
