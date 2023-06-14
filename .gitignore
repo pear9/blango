@@ -18,6 +18,7 @@ media/
 # Ignore virtual environment
 venv/
 env/
+*/env/
 
 # Ignore development and IDE-specific files
 *.log
